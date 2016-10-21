@@ -1,13 +1,15 @@
 ﻿{
   "version": "1.0.0-*",
   "buildOptions": {
-    "emitEntryPoint": true
+    "emitEntryPoint": true,
+    "copyToOutput": "config.json"
   },
 
   "dependencies": {
     "Microsoft.Data.Edm": "5.8.0-beta",
     "Microsoft.Data.OData": "5.8.0-beta",
     "Microsoft.Data.Services.Client": "5.8.0-beta",
+    "Microsoft.Extensions.Configuration.Json": "1.0.0",
     "Microsoft.Framework.Configuration.Json": "1.0.0-beta8",
     "Microsoft.NETCore.App": {
       "type": "platform",

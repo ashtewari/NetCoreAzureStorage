@@ -1,5 +1,5 @@
 {
-    "MicrosoftAzureStorage": {
-        "dnc1_AzureStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=dnc1;AccountKey=UsF5mMPdjrOJxO0BFf5GYmB21SRfKP0h/rIPwxRp5KTOLqCVkuPi2dc965sK8v8c2I2NOEkEK179bxW23BW1Aw=="
-    }
+  "MicrosoftAzureStorage": {
+    "ConnectionString": "DefaultEndpointsProtocol=https;AccountName=dnc1;AccountKey=UsF5mMPdjrOJxO0BFf5GYmB21SRfKP0h/rIPwxRp5KTOLqCVkuPi2dc965sK8v8c2I2NOEkEK179bxW23BW1Aw=="
+  }
 }
