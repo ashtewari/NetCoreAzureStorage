@@ -5,15 +5,15 @@
   },
 
   "dependencies": {
-    "Microsoft.Data.Edm": "5.6.3",
-    "Microsoft.Data.OData": "5.6.3",
-    "Microsoft.Data.Services.Client": "5.6.3",
+    "Microsoft.Data.Edm": "5.8.0-beta",
+    "Microsoft.Data.OData": "5.8.0-beta",
+    "Microsoft.Data.Services.Client": "5.8.0-beta",
     "Microsoft.Framework.Configuration.Json": "1.0.0-beta8",
     "Microsoft.NETCore.App": {
       "type": "platform",
       "version": "1.0.0"
     },
-    "System.Spatial": "5.6.3",
+    "System.Spatial": "5.8.0-beta",
     "WindowsAzure.Storage": "7.2.1"
   },
 
